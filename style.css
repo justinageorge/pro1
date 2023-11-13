@@ -1,0 +1,40 @@
+.container1{
+    font-family: Arial,  sans-serif;
+    background-color:black;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height:60vh;
+    color:black;
+    text-align: center;
+}
+.red{
+    
+    text-align: center;
+}
+label{
+    display:block;
+    margin-bottom: 8px;
+}
+input{
+    width:100%
+    padding:8px;
+    margin:bottom:16px;
+    box-sizing:border-box;
+
+    
+    
+}
+button{
+    background-color: cyan;
+    color:#fff;
+    padding:10px;
+    border:none;
+    border-radius:4px;
+    curser:pointer;
+}
+.col-md{
+    min-height: 200px;
+}
